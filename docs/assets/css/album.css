@@ -6,6 +6,7 @@ body {
   margin-bottom: 0;
 }
 
+/*
 .jumbotron {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -24,6 +25,7 @@ body {
 .jumbotron .container {
   max-width: 40rem;
 }
+*/
 
 .album {
   min-height: 50rem; /* Can be removed; just added for demo purposes */
